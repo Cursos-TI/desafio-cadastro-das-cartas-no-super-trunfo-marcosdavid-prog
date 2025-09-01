@@ -61,5 +61,6 @@ int main() {
     printf("PIB:%.2f bilhões de reais\n", PIB2);
     printf("Pontos Turísticos:%i\n", pt2);
 
+    
     return 0;
 }
